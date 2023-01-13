@@ -1,0 +1,14 @@
+.intro {
+    font-style: italic;
+    color: aquamarine;
+}
+.remixing {
+    color: chocolate;
+}
+p.remixing {
+    font-size: 12px;
+    color: aqua;
+}
+.author {
+    color: blue;
+}
